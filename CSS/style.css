@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Assistant:wght@200&family=Sono&display=swap');
+
+body{
+  background-color: #FFECEF;
+  text-align: center;
+}
+
+h1{
+  color: #54BAB9;
+  font-family: Amatic SC, cursive;
+  font-size: 3em;
+}
+
+p{
+  color: #9ED2C6;
+  font-family: Sono, sans-serif;;
+  font-size: 1.5em;
+}
+
+footer {
+  font-size: 0,5em;
+}
